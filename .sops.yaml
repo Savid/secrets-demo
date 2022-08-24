@@ -1,0 +1,14 @@
+creation_rules:
+  # john@smith.com - 27A10322070556D52F696C198A21D32E8BB9EC31
+  - pgp: >-
+      27A10322070556D52F696C198A21D32E8BB9EC31
+  # age
+  # - age: "age1yt3tfqlfrwdwx0z0ynwplcr6qxcxfaqycuprpmy89nr83ltx74tqdpszlw"
+  # AWS KMS
+  # - kms: 'arn:aws:kms:AWS_REGION:ACCOUNT_ID:key/KMS_KEY'
+  # Hashicorp Valut
+  # - hc_vault_uris: http://localhost:8200/v1/sops/keys/thirdkey
+  # GCP KMS
+  # - gcp_kms: projects/mygcproject/locations/global/keyRings/mykeyring/cryptoKeys/thekey
+  # Azure Key Vault
+  # - azure-kv: https://sops.vault.azure.net/keys/sops-key/some-string

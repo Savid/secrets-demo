@@ -1,0 +1,4 @@
+.gitsecret/keys/random_seed
+!*.secret
+some-dirty-secrets/git-secret.yaml
+some-dirty-secrets/sops.yaml
